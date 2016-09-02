@@ -1,0 +1,6 @@
+TODO:
+* Test:
+	* connect-mongo: Session
+	* Comprovar duplicats
+	* Obtenir guàrdia
+	* Eliminar guàrdia

@@ -1,0 +1,1 @@
+mongoimport -d guardies_dev -c teachers --file ..\app\data\teachers.json --jsonArray
